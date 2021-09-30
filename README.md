@@ -57,7 +57,7 @@ Then you can find it at  `app\build\reports\coverage\debug\index.html`
 ## Contributing
 
 Please fork this repository and contribute back using
-[pull requests](https://github.com/tayyabtariq50/MVVM-NY-Times-Most-Popular-Articles-Android/pulls).
+(C:\Users\Himanshu.rastogi\Desktop\ronaldino\new\Assignment\TestAssignment).
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
